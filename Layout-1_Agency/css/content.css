@@ -1,0 +1,15 @@
+.img-box {
+  position: relative;
+}
+
+.green-box {
+  position: absolute;
+    width: 309px;
+    height: 418px;
+    left: 403px;
+    top: 62px;
+  
+    background: #4CAF50;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
